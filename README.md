@@ -4,6 +4,4 @@ the game is located in the releases section in the right menu.
 
 Visit this link for a tutorial on downloading and running the game:
 
-Visit this link for a tutorial on how to play each game:
-
 Visit This link to evaluate my project:
